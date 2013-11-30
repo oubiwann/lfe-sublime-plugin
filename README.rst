@@ -16,7 +16,7 @@ Installation
 
 #. Go to Sublime Text 2 -> Preferences -> Package Control -> install package
 
-#. Type "lfe-sublime-plugin"
+#. Type "LFE"
 
 #. Select it and restart Sublime after it has installed
 
