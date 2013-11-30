@@ -13,11 +13,8 @@ Installation
 ============
 
 1. Be sure to have `Package Control`_ installed.
-
 1. Go to Sublime Text 2 -> Preferences -> Package Control -> install package
-
 1. Type "lfe-sublime-plugin"
-
 1. Select it and restart Sublime after it has installed
 
 
